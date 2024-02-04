@@ -1,2 +1,8 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Link:
+https://www.youtube.com/watch?v=VSxF0bb-JH4
+
+## Thoughts:
+I found this video interesting because it is informative about that I should do to best prepare myself for a future softwart engeneering career.
+
